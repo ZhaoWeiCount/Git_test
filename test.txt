@@ -2,4 +2,4 @@ first
 second
 thread
 Creating a new branch.
-Added this line from branch feature1.
+Added this line from master.
