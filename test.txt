@@ -2,4 +2,3 @@ first
 second
 thread
 Creating a new branch.
-Added this line from master.
